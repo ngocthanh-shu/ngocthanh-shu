@@ -12,7 +12,7 @@
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/761602563015442433?theme=dark&bg=6b6e58&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=[I%20am%20a%20developer]](https://discord.com/users/761602563015442433)
 
-❤️ I'm interested in game industry and game making languages like C#, C++,...
-🌱 I’m currently learning nodejs, reactjs, react native,... and programming languages around the javascript ecosystem.
+##❤️ I'm interested in game industry and game making languages like C#, C++,...
+##🌱 I’m currently learning nodejs, reactjs, react native,... and programming languages around the javascript ecosystem.
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
