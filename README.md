@@ -10,8 +10,6 @@
 ![shu's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngocthanh-shu&theme=tokyonight&layout=compact)
 ![shu's Last 7 Days](https://github-readme-stats.vercel.app/api/wakatime?username=hongocthanh&theme=tokyonight&langs_count=6&border_radius=15&range=last_7_days&layout=compact&custom_title=Last%207%20Days)
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/761602563015442433?theme=dark&bg=6b6e58&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=I'm%20a%20Developer)]
-
 ## ❤️ I'm interested in game industry and game making languages like C#, C++,...
 ## 🌱 I’m currently learning nodejs, reactjs, react native,... and programming languages around the javascript ecosystem.
 
