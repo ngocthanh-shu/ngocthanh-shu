@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ngọc Thanh</h1>
 <h3 align="center">A game developer with some totally bonkers ideas (no idea if I can actually pull them off though :(( )</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngocthanh-shu&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="ngocthanh-shu" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ngocthanh-shu&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&theme=discord" alt="ngocthanh-shu" /></a> </p>
 
 - 🔭 I’m currently working on **DQV Company**
 
